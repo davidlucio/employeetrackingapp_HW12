@@ -16,10 +16,11 @@
     "url": "https://github.com/davidlucio/employeetrackingapp_HW12/issues"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
-    "mysql2": "^2.2.5",
-    "inquirer": "^8.1.2"
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2",
+    "mysql2": "^2.2.5"
   },
   "homepage": "https://github.com/davidlucio/employeetrackingapp_HW12#readme"
 }
