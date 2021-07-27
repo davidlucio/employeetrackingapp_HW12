@@ -1,0 +1,25 @@
+{
+  "name": "employeetrackingapp_hw12",
+  "version": "1.0.0",
+  "description": "Employee Tracker App ; UW Bootcamp - Homework 12 (SQL)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlucio/employeetrackingapp_HW12.git"
+  },
+  "author": "David Lucio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidlucio/employeetrackingapp_HW12/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.2.5",
+    "inquirer": "^8.1.2"
+  },
+  "homepage": "https://github.com/davidlucio/employeetrackingapp_HW12#readme"
+}
